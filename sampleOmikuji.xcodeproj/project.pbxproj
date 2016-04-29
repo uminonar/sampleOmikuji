@@ -14,6 +14,13 @@
 		0B01AE601CD340B200628182 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B01AE5E1CD340B200628182 /* LaunchScreen.storyboard */; };
 		0B01AE6B1CD340B200628182 /* sampleOmikujiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B01AE6A1CD340B200628182 /* sampleOmikujiTests.swift */; };
 		0B01AE761CD340B200628182 /* sampleOmikujiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B01AE751CD340B200628182 /* sampleOmikujiUITests.swift */; };
+		0B01AE841CD346D600628182 /* sample0.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0B01AE831CD346D600628182 /* sample0.JPG */; };
+		0B01AE861CD34C8200628182 /* sample1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0B01AE851CD34C8200628182 /* sample1.JPG */; };
+		0B01AE881CD34C9100628182 /* sample2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0B01AE871CD34C9100628182 /* sample2.JPG */; };
+		0B01AE8A1CD34CA000628182 /* sample3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0B01AE891CD34CA000628182 /* sample3.JPG */; };
+		0B01AE8C1CD34CA800628182 /* sample4.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0B01AE8B1CD34CA800628182 /* sample4.JPG */; };
+		0B01AE8E1CD34CB300628182 /* sample5.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0B01AE8D1CD34CB300628182 /* sample5.JPG */; };
+		0B01AE901CD34CBC00628182 /* sample6.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0B01AE8F1CD34CBC00628182 /* sample6.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +54,13 @@
 		0B01AE711CD340B200628182 /* sampleOmikujiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleOmikujiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B01AE751CD340B200628182 /* sampleOmikujiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleOmikujiUITests.swift; sourceTree = "<group>"; };
 		0B01AE771CD340B200628182 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B01AE831CD346D600628182 /* sample0.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample0.JPG; sourceTree = "<group>"; };
+		0B01AE851CD34C8200628182 /* sample1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample1.JPG; sourceTree = "<group>"; };
+		0B01AE871CD34C9100628182 /* sample2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample2.JPG; sourceTree = "<group>"; };
+		0B01AE891CD34CA000628182 /* sample3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample3.JPG; sourceTree = "<group>"; };
+		0B01AE8B1CD34CA800628182 /* sample4.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample4.JPG; sourceTree = "<group>"; };
+		0B01AE8D1CD34CB300628182 /* sample5.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample5.JPG; sourceTree = "<group>"; };
+		0B01AE8F1CD34CBC00628182 /* sample6.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample6.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +117,13 @@
 				0B01AE5C1CD340B200628182 /* Assets.xcassets */,
 				0B01AE5E1CD340B200628182 /* LaunchScreen.storyboard */,
 				0B01AE611CD340B200628182 /* Info.plist */,
+				0B01AE831CD346D600628182 /* sample0.JPG */,
+				0B01AE851CD34C8200628182 /* sample1.JPG */,
+				0B01AE871CD34C9100628182 /* sample2.JPG */,
+				0B01AE891CD34CA000628182 /* sample3.JPG */,
+				0B01AE8B1CD34CA800628182 /* sample4.JPG */,
+				0B01AE8D1CD34CB300628182 /* sample5.JPG */,
+				0B01AE8F1CD34CBC00628182 /* sample6.JPG */,
 			);
 			path = sampleOmikuji;
 			sourceTree = "<group>";
@@ -229,9 +250,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B01AE8C1CD34CA800628182 /* sample4.JPG in Resources */,
 				0B01AE601CD340B200628182 /* LaunchScreen.storyboard in Resources */,
+				0B01AE901CD34CBC00628182 /* sample6.JPG in Resources */,
+				0B01AE8E1CD34CB300628182 /* sample5.JPG in Resources */,
 				0B01AE5D1CD340B200628182 /* Assets.xcassets in Resources */,
+				0B01AE881CD34C9100628182 /* sample2.JPG in Resources */,
+				0B01AE861CD34C8200628182 /* sample1.JPG in Resources */,
 				0B01AE5B1CD340B200628182 /* Main.storyboard in Resources */,
+				0B01AE8A1CD34CA000628182 /* sample3.JPG in Resources */,
+				0B01AE841CD346D600628182 /* sample0.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
